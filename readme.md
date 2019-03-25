@@ -6,6 +6,16 @@ React Native BaiduMap SDK for Android + iOS.
 
 *注意：RN v0.53+ 存在一些 bug（主要影响 iOS 自定义 View），建议使用 RN v0.52。*
 
+# Use Case
+- 百度地图
+  
+# Effect Picture
+  - 百度地图效果
+  
+<a><img width="200" src="./baidumap.png"></a>
+<a><img width="200" src="./marker.png"></a>
+
+
 ## 安装
 
 - [安装说明](docs/installation.md)
