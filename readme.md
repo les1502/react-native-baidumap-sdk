@@ -5,11 +5,13 @@ React Native BaiduMap SDK for Android + iOS.
 你可以下载安装 [example.apk](https://github.com/qiuxiang/react-native-baidumap-sdk/releases/download/v0.5.0/example.apk) 看看实际中的效果。
 
 *注意：RN v0.53+ 存在一些 bug（主要影响 iOS 自定义 View），建议使用 RN v0.52。*
+## Introduction
+引入react-native-baidumap-sdk在App中嵌入百度地图，可以具备地图搜索，路径规划地图标点，点聚合等功能，
 
-# Use Case
+## Use Case
 - 百度地图
   
-# Effect Picture
+## Effect Picture
   - 百度地图效果
   
 <a><img width="200" src="./baidumap.png"></a>
